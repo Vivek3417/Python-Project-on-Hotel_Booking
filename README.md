@@ -2,14 +2,7 @@
 
 ℹ About the Project:
 
-
-
 City hotels and Resort hotel have seen high cancellation rate each Hotel is now dealing with the number of issues as a result including less revenues and less than ideal hotel room use. Consistently lowering cancellation rate in both the hotels. Primary goal in order to increase their efficiency in generating the revenue.
-
-
-
-📶  Insights from the project:
-
 
 
 # Cancellation rate rise as the price does. In order to prevent the cancellation of reservation Hotels could work on their pricing strategy and try to lower the rate for specific Hotel based on location they can also provide some discount to the consumers.
