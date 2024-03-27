@@ -7,8 +7,8 @@ City hotels and Resort hotel have seen high cancellation rate each Hotel is now 
 
 Insights-
 
-Cancellation rate rise as the price does. In order to prevent the cancellation of reservation Hotels could work on their pricing strategy and try to lower the rate for specific Hotel based on location they can also provide some discount to the consumers.
+* Cancellation rate rise as the price does. In order to prevent the cancellation of reservation Hotels could work on their pricing strategy and try to lower the rate for specific Hotel based on location they can also provide some discount to the consumers.
 
-In the month of Jan Hotel can start campaign or can make marketing strategy to increase their revenue because cancellation rate is higher in the this month.
+* In the month of Jan Hotel can start campaign or can make marketing strategy to increase their revenue because cancellation rate is higher in the this month.
 
-They can also increase the quality of their hotel and can also improve the services to reduce the cancellation rate.
+* They can also increase the quality of their hotel and can also improve the services to reduce the cancellation rate.
